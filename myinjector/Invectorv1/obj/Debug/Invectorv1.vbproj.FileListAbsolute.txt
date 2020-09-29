@@ -1,0 +1,12 @@
+C:\Users\petre\Desktop\injector\Invectorv1\bin\Debug\Invectorv1.exe.config
+C:\Users\petre\Desktop\injector\Invectorv1\bin\Debug\Invectorv1.exe
+C:\Users\petre\Desktop\injector\Invectorv1\bin\Debug\Invectorv1.pdb
+C:\Users\petre\Desktop\injector\Invectorv1\bin\Debug\Invectorv1.xml
+C:\Users\petre\Desktop\injector\Invectorv1\obj\Debug\Invectorv1.vbprojAssemblyReference.cache
+C:\Users\petre\Desktop\injector\Invectorv1\obj\Debug\Invectorv1.Form1.resources
+C:\Users\petre\Desktop\injector\Invectorv1\obj\Debug\Invectorv1.Resources.resources
+C:\Users\petre\Desktop\injector\Invectorv1\obj\Debug\Invectorv1.vbproj.GenerateResource.cache
+C:\Users\petre\Desktop\injector\Invectorv1\obj\Debug\Invectorv1.vbproj.CoreCompileInputs.cache
+C:\Users\petre\Desktop\injector\Invectorv1\obj\Debug\Invectorv1.exe
+C:\Users\petre\Desktop\injector\Invectorv1\obj\Debug\Invectorv1.xml
+C:\Users\petre\Desktop\injector\Invectorv1\obj\Debug\Invectorv1.pdb
